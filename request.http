@@ -1,0 +1,26 @@
+###
+GET http://127.0.0.1:5050/issues?page=0&limit=10
+
+###
+POST http://localhost:5050/issues
+Content-Type: application/json
+
+{
+  "title": "JIRA V3",
+  "description": "This is a sample issue"
+}
+
+###
+PUT http://localhost:5050/issues/905875ef-ea45-4049-b8ec-4c0bbcede51a
+Content-Type: application/json
+
+{
+  "title": "MUS CREATE NA ISSUE"
+}
+
+###
+GET http://localhost:5050/issues/905875ef-ea45-4049-b8ec-4c0bbcede51a
+
+
+###
+DELETE  http://localhost:5050/issues/11bf9534-620b-42d9-bc65-8702b5104961

@@ -1,0 +1,7 @@
+{"id":"dccaef8e-f5a2-477d-ad1c-aca9a5b0e425","dateCreated":{"$$date":1652762006666},"title":"JIRA V3","description":"This is a sample issue","_id":"6L7DIVjLtPNxGD8A"}
+{"id":"63513692-0bc3-4c47-9328-454f0dbbd1ab","dateCreated":{"$$date":1652760926018},"title":"JIRA V2","description":"This is a sample issue","_id":"JWwEqsVkVKxRetCr"}
+{"id":"62d3a892-106e-4d01-b0a7-f99a593825fa","title":"Bug Test - 3","description":"This is a bug test","dateCreated":{"$$date":1652683309319},"_id":"KQl9ihTaOKfi0sYj"}
+{"id":"bb37b31e-934c-4fce-986c-61209c6c20d3","dateCreated":{"$$date":1652760887822},"title":"Must create an issue","description":"This is a sample issue","_id":"mszc8xVPFNnj3m1y"}
+{"id":"905875ef-ea45-4049-b8ec-4c0bbcede51a","dateCreated":{"$$date":1652760915315},"title":"MUS CREATE NA ISSUE","description":"This is a sample issue","_id":"uGDthX4O3mTtQmGA"}
+{"id":"caedff95-49eb-4eda-aa6e-a83fe8f47ef9","dateCreated":{"$$date":1652760891056},"title":"Must create an issue","description":"This is a sample issue","_id":"ux6bsfjKA0aKvKi5"}
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
